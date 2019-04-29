@@ -5,7 +5,7 @@ string.toUpperCase( );
 
 
 function whisper(string) {
-  return
+  return string 
 string.toLowerCase()
 }
 
