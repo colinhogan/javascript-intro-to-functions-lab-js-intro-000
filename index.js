@@ -23,5 +23,7 @@ switch(string) {
     return "I love you too.";
     break;
     default: 
+    return "I don't recognize that.";
+    
 }
 }
