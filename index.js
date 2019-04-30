@@ -13,6 +13,15 @@ function logShout(string){
 
 function sayHiToGrandma(string) {
 switch(string) {
-  case string.toUpperCase: 
+  case string===string.toUpperCase: 
+    return "YES INDEED!";
+    break; 
+  case string===string.toLowerCase:
+    return "I can't hear you!";
+    break;
+  case "I love you, Grandma.":
+    return "I love you too.";
+    break;
+    
 }
 }
