@@ -10,4 +10,4 @@ function whisper(string) {
 function logShout(string){
  cosole.log() 
 }
-}
+
