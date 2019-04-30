@@ -24,6 +24,5 @@ switch(string) {
     break;
     default: 
     return "I don't recognize that.";
-    
 }
 }
