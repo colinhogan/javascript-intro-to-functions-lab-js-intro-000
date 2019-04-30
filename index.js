@@ -12,5 +12,5 @@ function logShout(string){
 }
 
 function sayHiToGrandma(string) {
-return   
+return 
 }
