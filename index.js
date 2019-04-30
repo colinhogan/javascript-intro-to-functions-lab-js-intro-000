@@ -12,17 +12,8 @@ function logShout(string){
 }
 
 function sayHiToGrandma(string) {
-switch(string) {
-  case string===string.toUpperCase: 
-    console.log( "YES INDEED!");
-    break; 
-  case string===string.toLowerCase:
-    console.log( "I can't hear you!");
-    break;
-  case "I love you, Grandma.":
-    console.log( "I love you too.");
-    break;
-    default: 
-    return "I don't recognize that.";
+if (string === string.toUpperCase()){
+  return "YES INDEED!"
 }
 }
+
