@@ -12,6 +12,7 @@ function logShout(string){
 }
 
 function sayHiToGrandma(string) {
-switch(string)
-
+switch(string) {
+  case 
+}
 }
