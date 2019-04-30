@@ -11,3 +11,6 @@ function logShout(string){
  console.log(string);
 }
 
+function sayHiToGrandma(string) {
+return   
+}
